@@ -1,0 +1,27 @@
+=== Test Summary
+NAME                 VALUE                      
+───────────────────  ───────────────────────────
+Outcome              Passed                     
+Tests Ran            9                          
+Pass Rate            100%                       
+Fail Rate            0%                         
+Skip Rate            0%                         
+Test Run Id          707GA0000E3KYTF            
+Test Execution Time  344 ms                     
+Org Id               00DGA0000081GWv2AM         
+Username             akash.devlearning@gmail.com
+
+
+=== Test Results
+TEST NAME                                         OUTCOME  MESSAGE  RUNTIME (MS)
+────────────────────────────────────────────────  ───────  ───────  ────────────
+ContactTriggerHandlerTest.afterInsertHandlerTest  Pass              309         
+CoronaTest.getTreatedTest                         Pass              9           
+CoronaTest.getTreatedTestNegative                 Pass              2           
+FitnessTest.calculateBMITest                      Pass              13          
+FitnessTest.calculateBMITestNegative              Pass              2           
+FitnessTest.calculateBMITestZero                  Pass              2           
+FitnessTest.calculatePaceTest                     Pass              2           
+FitnessTest.calculatePaceTestNegative             Pass              3           
+FitnessTest.calculatePaceTestZero                 Pass              2           
+
